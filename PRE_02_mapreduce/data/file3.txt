@@ -1,4 +1,4 @@
-Business intelligence (BI) refers to the technologies, strategies, 
+business intelligence (BI) refers to the technologies, strategies, 
 and practices utilized by organizations to analyze and interpret 
 raw data in order to make informed business decisions. It involves
 collecting, organizing, and transforming data into actionable 
